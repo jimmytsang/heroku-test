@@ -1,6 +1,8 @@
 ## Welcome to Jimmy's New Static Page
 
 This is a test to see how the new static page would look like with just basic pictures and text content. It seems this is very easy to use, maintaint, and host!
+
+Here's a picture of my dogs snoopy and shelby ![Image](./imgs/snoopy_shelby.jpg)
 <!-- You can use the [editor on GitHub](https://github.com/jimmytsang/heroku-test/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files. -->
 <!-- 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files. -->
